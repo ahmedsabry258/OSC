@@ -1,1 +1,8 @@
+Step 1: To create a directory i used the command "mkdir" and changed the current working directiry using the command "cd ".
+Step 2: To create the text files within the "Documents" directory i used the command "touch", and to verify that they are created i used "ls" command.
+Step 3:"cd .." command to go backwards ,"mkdir" command to create the hidden file and "ls --all" command to verify that the hidden file is created.
+Step 4: "nano file1.txt" command to write in the file with nano , "ctrl+x" to exit nano and "cat" command to display the file contents.
+Step 7: "cp -r" command to copy the directory.
+Step 9: "mv" command to move the files.
+Step 10: "cd ~" to go back to home and "rm -r" to remove the directory.
 
